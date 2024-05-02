@@ -1,0 +1,221 @@
+"Operator
+
+Ladies and gentlemen, at this time, we will be conducting a question-and-answer session. [Operator instructions] Our first question comes from the line of Keith Weiss with Morgan Stanley. Please proceed.
+
+Keith Weiss -- Morgan Stanley -- Analyst
+
+Excellent. Thank you, guys, for taking the question. I was hoping we could delve into the expansion of the investment into OpenAI. Satya, I was hoping you could talk to us about, is there any expansion in the scope of what you guys are doing with OpenAI and the commitment that you guys are making in terms of sort of the compute capacity you're going to be giving to them? And then maybe as from an investor's perspective, how should we think about when this functionality is going to become -- expand beyond just sort of the Azure OpenAI services? And where are we going to start to see some of the positive impacts to perhaps Bing or the productivity suite or more broadly across the solution portfolio?
+
+Satya Nadella -- Chairman and Chief Executive Officer
+
+Thank you so much, Keith, for the question. So, as you know, we started the OpenAI partnership now in three years, three and a half years ago. And we've been actually working very hard on a lot of elements of this partnership over the last three years. And so, I think the way for our investors to see this is we fundamentally believe that the next big platform wave, as I said, is going to be AI and be strong.
+
+We also believe a lot of the enterprise value gets created by just being able to catch these waves and then have those waves impact every part of our tech stack and also create new solutions and new opportunities. So, whenever we think about platform opportunities and platform shift opportunities, that's how we come at it. How can we essentially ride the wave for everything that we have today and make it more expansive and then what can be created? So, if you take that lens, the core of Azure, or what is considered cloud computing fundamentally changes in its nature and how compute, storage, and network come together. That's, in some sense, under the radar, if you will, for the last three and a half, four years, we've been working very, very hard to build both the training supercomputers and now, of course, the inference infrastructure because once you use AI inside of your applications, it goes from just being training-heavy to inference.
+
+So, I think core Azure itself is being transformed for the core infrastructure business. It's being transformed. And so, you can see us with data beyond Azure OpenAI services even, think about what Synapse plus OpenAI APIs can do. We already have Power Platform incorporated capability.
+
+You could prompt a -- I mean, one of the reasons why we are the leaders in robotic process automation and workflow automation today is because of some of the AI capabilities that we have in there. GitHub Copilot is, in fact, you would say, the most at-scale LLM-based product out there in the marketplace today. And so, we fully expect us to sort of incorporate AI in every layer of the stack, whether it's in productivity, whether it's in our consumer services. And so, we're excited about it.
+
+But I think that we're also excited about OpenAI innovation, right? So, they commercialize their products. We're excited about the ChatGPT being built on Azure and having the traction it has. So, we look to both, there's an investment part to it and there's a commercial partnership. But fundamentally, it's going to be something that's going to drive, I think, innovation and competitive differentiation in every one of the Microsoft solutions by leading in AI.
+
+Keith Weiss -- Morgan Stanley -- Analyst
+
+Outstanding. Thank you, guys.
+
+Satya Nadella -- Chairman and Chief Executive Officer
+
+Thanks. Joe, next question, please.
+
+Operator
+
+Our next question comes from the line of Brent Thill with Jefferies. Please proceed.
+
+Brent Thill -- Jefferies -- Analyst
+
+Thanks. Satya, can you give us your overall macro view? There were some comments you had made that concerned, I think, many about the state of the U.S. spending environment. I'm just curious if you could comment and follow up on what you're seeing there just from a spend environment throughout the year.
+
+I think many came away with that seeming that you were saying it's getting worse, not better. Can you just give us a little more color on that? Thank you.
+
+Satya Nadella -- Chairman and Chief Executive Officer
+
+Thank you, Brent, and first of all, I was making a comment which is sort of a global comment, not just a specific U.S. comment. I mean, there is only -- I always sort of subscribe to that there's only one law of gravity that I think all of us are subject to, which is inflation-adjusted economic growth in the world. And then how many times that do we grow? Because as I said in my I fundamentally believe tech as a percentage of GDP is going to be much higher and on a secular basis.
+
+So, the question is, how many times is it given the overall inflation-adjusted economic growth? So, that's kind of how I look at it. Given that, I think the two things that we see, we commented on that even in the last quarter, and it's even in the outlook, which is the thing that customers are doing is what they accelerated during the pandemic. They are making sure that they're getting most value out of it or optimizing it. And then also being a bit more cautious on given the macroeconomic headwinds out there in the market.
+
+So, given those two things -- the point is, at some point, the optimizations will end. In fact, the money that they save in any optimization of any workload is what they into workloads. And those workloads will start ramping up. And so, one of the key things we are watching for, Brent, is to make sure that we are gaining share in this space through our value propositions and even build loyalty with our customers so that long term, we are well-positioned for share gains.
+
+So, that's sort of fundamentally how we view it. And then the other aspect I'd also say is simultaneously investing in this new AI trend because I don't think any application start that happens next is going to look like the application starts of 2019 or 2020. They're all going to have considerations around how is my AI inference performance, cost model is going to look like. And that's where we are well positioned again.
+
+So, that's how I view it. The market, you all are better readers of, quite frankly, what's happening out there. We can tell you what we see. What we see is optimization and some cautious approach to new workloads and that will cycle through, but we do fundamentally believe on a long-term basis, as a percentage of GDP, tech spend is going to go up.
+
+Brent Thill -- Jefferies -- Analyst
+
+Thank you.
+
+Satya Nadella -- Chairman and Chief Executive Officer
+
+Thanks, Brent. Joe, next question, please.
+
+Operator
+
+Our next question comes from the line of Mark Moerdler with Bernstein. Please proceed.
+
+Mark Moerdler -- Bernstein Research -- Analyst
+
+Thank you very much. I'd like to follow up a little bit on this question relating to optimization. I know we saw some slowing this quarter. You're guiding to some slowing next quarter in Cloud and Azure.
+
+How much of that is -- do you believe at this point is truly people optimizing what they've already bought and stepping that before that versus how much of that is due to macro factors themselves specifically impacting demand?
+
+Satya Nadella -- Chairman and Chief Executive Officer
+
+I'd say two things, and then, Amy, please feel free to add. One is, it absolutely is -- starts with workloads that they have at scale just because of the visibility one has on what's driving essentially the consumption meters. And there's real guidance that we ourselves in the product to say, here are the things that you do optimize your billing. And so that's sort of what is the fundamental thing.
+
+When we say do more with less and how can we help, that's sort of the first place customers go to. And then the next piece, really, I think, is going to be about how they take the optimization that they get and the savings they get workload and what new project starts. And that's where I think there's a reprioritization. When should we start the new projects? Those are the two things that are happening simultaneously.
+
+They don't perfectly match, but one of the things is they're looking to back some savings on some workloads and then start. So, that's where I think a little bit of what has to happen is the cycle time where the optimization cycle finishes, the projects start, and then the projects ramp. And I think that that's what at least on the cloud consumption side you're seeing. And on the per-user side, it's slightly different, which is in per-user also, there was real acceleration when it comes to purchases of per-user licenses, whether it is for knowledge workers or frontline workers.
+
+And again, they're all now making sure that they're all getting used and the usage is going up. Like when we look at our Office 365 usage, all those numbers are pretty up year over year in a substantial way. Like I gave you some of the Teams numbers. In fact, one of the things was, what will have Teams usage after the pandemic.
+
+Guess what? They're up. And so, those are the good news. And now once we cycle through that again, the seats will get added and premium, like I'm very, very excited about Teams Pro coming out in a couple of weeks. And those are all the things that people will be able to sort of use to ensure that the ARPUs are also going up a bit value.
+
+Amy Hood -- Chief Financial Officer
+
+And, Mark, because I do think it's actually quite hard to separate from a driver perspective how much is optimization versus macro. It's all related when you start to say what's the best ROI I can get on every budget dollar I spend, and our job as a partner to so many of these customers is to help them do that. So, Satya has talked a bit about Azure. Let me talk a little bit about the per-user where the way it showed itself is we had very high renewal rates and very good suite performance at renewal, meaning what we tend to call internally recapture.
+
+While we had some more challenges on maybe a stand-alone sale of a new product where the cycle is going to be a little longer, right, and you're going to have to show that cost savings. But the suite sale, the value in that showed itself in terms of strong E5. You can see the ARPU growth, and you can see the consistency potentially in both renewal rate and in, frankly, the Microsoft 365 performance.
+
+Mark Moerdler -- Bernstein Research -- Analyst
+
+Perfect. Thank you very much.
+
+Satya Nadella -- Chairman and Chief Executive Officer
+
+Yeah. Thanks, Mark. Joe, next question, please.
+
+Operator
+
+Our next question comes from the line of Kash Rangan with Goldman Sachs. Please proceed.
+
+Kash Rangan -- Goldman Sachs -- Analyst
+
+Thank you very much. Satya, I'm curious if you could talk about how long the cycle time for optimization lasts. Are we talking a couple of quarters, few quarters, or multiple years? Because I do take your comment about tech spending as a percentage of global GDP going higher. So, if that were to happen, this -- how do you frame the duration of this optimization that's happening in the industry? Thank you so much.
+
+Satya Nadella -- Chairman and Chief Executive Officer
+
+I mean, you know, I think that you can -- you have a workload, you optimize the workload, and you start a new workload. So, the thing that I would say is when you're done with optimizing a workload is when you are done with the cycle. So, I think if you sort of say, when did we enter this -- we accelerated workloads during the pandemic over a period of two years. So, we are optimizing.
+
+I don't think we're going to take two years to optimize, but we're going to take this year to optimize. And then as we optimize the new projects start and the new project starts don't start instantly at their peak usage. They start and then they scale. And so, those are the two cycles that will happen where there will be a time lag.
+
+Kash Rangan -- Goldman Sachs -- Analyst
+
+Got it. So, it's a temporary adjustment before we start to get the full effect of the next set of workloads. Good to get that.
+
+Satya Nadella -- Chairman and Chief Executive Officer
+
+That's correct. That's correct.
+
+Kash Rangan -- Goldman Sachs -- Analyst
+
+Thank you.
+
+Satya Nadella -- Chairman and Chief Executive Officer
+
+Thanks, Kash. Joe, next question, please.
+
+Operator
+
+The next question comes from the line of Karl Keirstead with UBS. Please proceed.
+
+Karl Keirstead -- UBS -- Analyst
+
+Thank you. This one for Amy. Amy, given the obviously tough environment, it sounds like reaching that full fiscal year 20% constant-currency Commercial revs guide would be tough. Is that also true for the soft guidance for 10%-plus total revenue growth for the year? And if I could just sneak in a clarification, Amy, just because it's an important metric.
+
+When you talk about a four- to five-point decel in Azure, that's off of the 38% reported for December, right, not off the 35% exit rate? Thank you.
+
+Amy Hood -- Chief Financial Officer
+
+It's all -- Karl, let me just -- the first half of your question, give me a second. On the second half of your question, which is the guide off the exit rate, it's off the exit rate on Azure of four to five points, just to make sure that is clear. In terms of thinking about total year revenue, right, I did not comment on full-year revenue as we continue, I think, really just to watch the Windows PC market as it returns to pre-pandemic levels. Outside of that, as you can see, the trends are relatively consistent.
+
+So, in some points, it's important because if you look at the operating income margin guidance that I talked about, the fact that we are guiding to really only one point of margin deceleration for the year on a constant-currency basis with probably over $2 billion of headwind from the OEM business from what we had anticipated heading into the year, the focus on margins, the focus on prioritization, the focus on putting our investments into where we know they have high return, I actually feel quite good about the place that puts us in as we exit the year in terms of -- and the right energy, right, or leaving the year in Q4 on leverage.
+
+Karl Keirstead -- UBS -- Analyst
+
+Got it. Super helpful. Thanks, Amy.
+
+Satya Nadella -- Chairman and Chief Executive Officer
+
+Thanks, Karl. Joe, next question, please.
+
+Operator
+
+Our next question comes from the line of Brad Zelnick with Deutsche Bank. Please proceed.
+
+Brad Zelnick -- Deutsche Bank -- Analyst
+
+Great. Thanks very much. Amy, I wanted to ask about the expense actions that you announced last week. Obviously, not a decision that you would take lightly.
+
+How are you thinking about headcount for the remainder of the year and the possibility for further expense actions, if necessary? And what criteria do you consider in making these decisions? Thanks.
+
+Amy Hood -- Chief Financial Officer
+
+Brad, listen, thanks for that question. Obviously, as we think about the Q4 guidance around low single-digit operating expense growth, we start to, as you know, sort of lap certain real acceleration points that we had last year. And we lapped the acquisitions both of Nuance and of Xandr. So, by the time that we get to the end of Q4, you'll see very moderated headcount growth on a year-over-year basis in addition to some the prioritization decisions we've made.
+
+And you're right. We take decisions like the one we had to make to get our cost structure more in line with revenue just incredibly seriously because we have lots of very talented people who were impacted by that. And so, I do think that we feel confident in that exit rate. As I said, it will certainly imply that year-over-year growth as we lap some of the investments that we've made will be quite small.
+
+Brad Zelnick -- Deutsche Bank -- Analyst
+
+Thanks for the color.
+
+Satya Nadella -- Chairman and Chief Executive Officer
+
+Thanks, Brad. Joe, next question, please.
+
+Operator
+
+Our next question comes from the line of Brad Reback with Stifel. Please proceed.
+
+Brad Reback -- Stifel Financial Corp. -- Analyst
+
+Great. Thanks very much. On Office 365 Commercial, with you guys approaching 400 million seats and the E5 business really starting to accelerate here on that consolidated sort of expense ROI that you're putting forth, should we think about the growth there more evenly balanced between seats and ARPU going forward or still to continue to favor seats? Thanks.
+
+Amy Hood -- Chief Financial Officer
+
+Yes. That's a good question, especially because this quarter, you started to see a little bit more of that ARPU influence. And as you might have gathered from your question and I'll just reinforce it, as we see some of this moderating seat growth, whether that's some of the new SKU weakness that we had talked about, some of the stand-alone stuff, you're starting to also see E5 ARPU happen at the same time. So, it does create some stability in that Office 365 Commercial revenue number.
+
+So, we're seeing still good seat growth, still growth across all workloads. And as you're pointing out, we're getting further into the E5 health, where we've seen, I want to say, four or five really good quarters of E5 adoption. The value there is just very high for customers in this environment between analytics, security, and I think we've given some, I think, good security data points in terms of adoption and voice. This is a place where customers can save money by moving to this suite.
+
+And I do think you're starting to see some of that ARPU help.
+
+Satya Nadella -- Chairman and Chief Executive Officer
+
+And we're also investing in outside of Microsoft 365 in other per-user workloads. We were a new suite Power Platform on its own and even stand-alone offers like even Teams Pro and what have you. So, there's a significant amount of work we want to do besides sort of the suites that we all sort of have at scale.
+
+Brad Reback -- Stifel Financial Corp. -- Analyst
+
+Great. Thank you very much.
+
+Brett Iversen -- Vice President, Investor Relations
+
+Joe, we have time for one last question.
+
+Operator
+
+Our next question comes from the line of Tyler Radke with Citi. Please proceed.
+
+Tyler Radke -- Citi -- Analyst
+
+Yes. Thanks for taking the question. I wanted to ask just about how your visibility has changed in terms of some of the larger Azure customer ramps. Could you just comment on, to the extent those large customer ramps or if any of those projects are getting put on pause? And then is there any way to just kind of quantify the AI potential contribution or maybe GPU-powered contribution that Azure that you're expecting over the coming quarters? Thank you.
+
+Satya Nadella -- Chairman and Chief Executive Officer
+
+On the second piece, I think it's too early to sort of start somehow separating out AI from the rest of the workload. I mean, even the workloads themselves, AI is just going to be a core part of a workload in Azure versus just AI alone. So, in other words, if you have an application that's using a bunch of inference, let's say, it's also going to have a bunch of storage, and it's going to have a bunch of other compute beyond GPU inferencing, if you will. So, I think over time, obviously, I think every app is going to be an AI app.
+
+That's, I think, the best way to think about this transformation. On your characterization of the large customers, whether there is any changes in their trajectory, I would say I'd point back to, I think, some of the commentary around every large customer is looking to optimize the workloads that they have at scale today and plow some of that money back that they save into new project stock. So, that's sort of what the classic pattern of large customers is. Sometimes, you have ISVs who are different, right? So, if an ISV is optimizing, they're optimizing and say, what is the [Technical difficulty]
+
+Operator
+
+Ladies and gentlemen, please stand by.
+
+Brett Iversen -- Vice President, Investor Relations
+
+That wraps up the Q&A portion of today's earnings call. Thank you for joining us today, and we look forward to speaking with all of you soon."

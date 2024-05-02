@@ -1,0 +1,188 @@
+"
+Operator
+
+Thank you. [Operator instructions] And our first question comes from Brian Nowak with Morgan Stanley. Your line is open.
+
+Brian Nowak -- Morgan Stanley -- Analyst
+
+Thanks for taking my questions. I have two. The first one around AI and sort of the cost of AI. I appreciate all the color about all the AI tools that are to come.
+
+I guess, first question is, how should we think about the potential impact on capex and the higher compute intensity of these AI tools to come, potentially impacting margins over the next couple of years? And then the second one, Ruth, I really appreciate the conversation about long-term efforts underway to improve efficiency. How should we think about potential impacts of those efforts in '23 and in '24? Have you sort of run any sizes of what types of savings we could see roll through the P&L over that period? Thanks.
+
+Ruth Porat -- Chief Financial Officer
+
+Thanks for the question. So, starting on your question about AI and capex. As I think Sundar and Philipp both noted, AI is already incorporated in many of our products, products like Performance Max and smart bidding and Cloud, as Sundar said. It is more compute-intensive but also opens up many more services and products for our users, for creators, for advertisers.
+
+That being said, we're very focused on further optimizing the cost of compute, and that's across all elements, data center, servers, and our supply chain. So, we're continuing to invest with a keen lens on the return on that capital. And as I indicated in opening comments, when we look at capex for 2023, we do expect it's going to be generally in line with 2022 with an important mix shift. We're increasing our investments in technical infrastructure.
+
+And that's not just for AI. That's to support investments across Alphabet, in particular in Cloud as well. And at the same time, we're meaningfully decreasing our capex for office facilities. And then with respect to the overall efficiency opportunities, yes, very keen focus on the three areas that I noted, the -- and one of the key elements of it is using AI and automation to improve productivity and efficiency of our technical infrastructure.
+
+We noted that we want to be focused and that we are focused on durable improvements to our expense base. And that's because if you go through the items, the work streams that we have in flight, they take longer to implement, execute. They're in process now, and they continue to build on themselves and continue to provide added upside as we go through time, which is why I indicated you would see more of an impact in 2024 than in 2023. But we're continuing to work through them.
+
+Brian Nowak -- Morgan Stanley -- Analyst
+
+Great. Thanks, Ruth.
+
+Operator
+
+And our next question comes from Michael Nathanson with Nathanson.
+
+Michael Nathanson -- MoffettNathanson -- Analyst
+
+Thanks. I have two. For Sundar and Philipp, you both mentioned the NFL in your remarks and the opportunities it opens up. Can you comment and help us define what do you see is that longer-term opportunity? Why is it so critical to have the NFL? Is this the first of many sports deals to be had? So, anything just helps us why this is so important to you.
+
+And then just, Philipp, you've said in the past about the scaling of monetization, YouTube Shorts. What are the sticky factors? What's taking you the time to really bring advertisers on? And what are some of the things you've seen in terms that you've solved to make this a more quickly monetizable products? Thank you.
+
+Philipp Schindler -- Senior Vice President and Chief Business Officer
+
+Yeah. Thank you so much for the question. We think there is a lot of great opportunities to differentiate the user and creator experience with our unique capabilities. It basically means that every YouTube viewer who's interested in the NFL can now have one-click access to the full offering of Sunday Ticket as an add-on package on YouTube TV subscription and as a stand-alone offering on Primetime Channels.
+
+This will be the first time that Sunday Ticket is actually available a la carte for fans. On YouTube TV, we're building the ability for subscribers to, for example, watch multiple screens at once. And on YouTube CTV, we'll be adding new features specific to the Sunday Ticket experience like comments, chats, polls, and so on. On the creator side, imagine all the innovative ways they can create with exclusive NFL content, behind-the-scenes event access, and so on.
+
+And we're really excited to see what they'll do across long-form, shorts, live streams, and more. On your second question, on the Shorts side, as I said earlier, viewership is growing rapidly, 50 billion-plus daily views, up from 30 billion last spring. We're still pleased with our continuing progress in monetization. Closing the gap between Shorts and long-form is a big priority for us, as is, of course, continuing to build a great creator and user experience, which we're paying a lot of attention to.
+
+As on Shorts are now available, it gives you a bit of a sign for the progress. We have video action, app discovery, Performance Max campaigns and via product feed shorts are also shoppable. And again, we're the only destination where creators can produce all forms of content across multiple formats, across multiple screens, and really with multiple ways to make a living. And Sundar shared just yesterday, we brought revenue sharing to Shorts via our YouTube Partner Program.
+
+Ultimately, our goal is to make YouTube the best place for Shorts and creators. And that's really what our focus is at the moment.
+
+Operator
+
+And our next question comes from Douglas Anmuth with J.P. Morgan. Your line is open.
+
+Douglas Anmuth -- JPMorgan Chase and Company -- Analyst
+
+Thanks for taking the questions. One for Sundar and one for Ruth. For Sundar, can you just talk more about how you can bring the AI products to market with the principles and integrity that you talked about and how you can do that without kind of sacrificing quality or trust along the way? And then, Ruth, clearly, the language around reengineering the cost structure in a durable way and everything that went along with it is different than what we've heard in the past. Is there any way at all to help us quantify how you're thinking about these efforts? Thanks.
+
+Sundar Pichai -- Chief Executive Officer
+
+Thanks, Doug. On the AI side, it is a really exciting time. I think we've been investing for a while, and it's clear that the market is ready. Consumers are interested in trying out new experiences.
+
+I think I feel comfortable with all the investments we have made in making sure we can develop AI responsibly. And we'll be careful. We'll be launching Morris labs products in certain cases, beta features in certain cases and just slowly scaling up from there. Obviously, we need to make sure we're iterating in public, these models will keep getting better so the field is fast changing.
+
+The serving costs will need to be improved. So, I view it as very, very early days, but we are committed to putting our experiences, both in terms of new products and experiences, actually bringing direct LLM experiences in Search, making APIs available for developers and enterprises, and learn from there and iterate like we've always done. So, I'm looking forward to it.
+
+Ruth Porat -- Chief Financial Officer
+
+And then on your second question, when we talk about being focused on delivering sustainable financial value, that obviously means that expense growth cannot be growing ahead of revenue growth. And we're focused on revenue upside, as well as durable changes to the expense base to really ensure we have the capacity to invest in that growth. And clearly, the emphasis of revenue growth, there's a lot that's exciting ahead of us within Google Services, all of the AI advancements that are improving advertiser ROI and the search user experience and more broadly, as we've talked about across the key product areas. And then very importantly, on expense growth, we have a very strong commitment to -- we keep emphasizing durably reengineer our cost base, and that will benefit all of the segments across Alphabet.
+
+And the key components, slowing the pace of hiring as a starting point, product prioritization across Google, as Sundar said, is key. Improving economics in hardware as we focus intently on the Pixel line and cost structure, then using AI and automation to improve productivity for operational tasks, as well as for the efficiency of our technical infrastructure, where we have a number of work streams. Managing our spend, as I said, with suppliers and vendors and then optimizing how and where we work, and you saw part of that with the real estate consolidation, given the slower headcount growth. All of those not only benefit Google Services but many of those similarly drive greater efficiency across Alphabet.
+
+And so, as we've said, in Cloud, we remain very focused on the path to profitability. That's a revenue and margin driver. And then with Other Bets, we're similarly focused on investing sustainably. And so to go back to it, it's the durable nature of change in some of the elements that I've talked about here where work is ongoing, you start to see impacting in '23 but to really get full year run rate and the benefit of it, there is work ongoing.
+
+And that's why we've emphasized this notion of it comes in and then really you see the run rate in '24.
+
+Douglas Anmuth -- JPMorgan Chase and Company -- Analyst
+
+That's helpful. Thank you both.
+
+Operator
+
+Our next question is from Eric Sheridan of Goldman Sachs. Your line is open.
+
+Eric Sheridan -- Goldman Sachs -- Analyst
+
+Thank you so much. Maybe two, if I could. Sundar, for you, continuing on the AI theme, how do you think philosophically about capturing the opportunity set that you see in front of you, given all the investments you've made over the last five-plus years that we've been talking about going back to a lot of Google I/Os versus potentially disrupt the user experience or the monetization arc in your existing product set and striking the right balance between the opportunity set and being disruptive to yourself when you think about looking forward over the next couple of years? And then, Ruth, maybe just following on some of the questions and debates on the cost structure. Obviously, Other Bets is an area where the losses continue to be sort of higher than what some of us think from the outside looking in.
+
+But then you showed some improvement in the losses in the Cloud division this quarter. How should we be thinking about the rationalization of the cost structure and aligning costs with opportunity sets across some of the divisions of Alphabet when you think for the medium to long term? Thanks so much.
+
+Sundar Pichai -- Chief Executive Officer
+
+Thanks, Eric. Look, I do think, first of all, we made such a foundational technology and we've been investing not just in terms of research but actually getting it all production scale-ready. We had already deployed. If you look at the impact, things like BERT and MUM had on search quality, making search multimodal, driving the usage of products like Google Lens.
+
+I feel like we've been scaling up well. In Google Cloud today with Vertex AI, we'd already been bringing AI APIs to enterprises, and they're on a pretty healthy growth path. So, we do see secular opportunities ahead, both in terms of putting these APIs out, making sure every developer, every organization in the world can use it. And as I said earlier, we are in very, very early days and I think there's a lot of room ahead.
+
+In terms of Search too, now that we can integrate more direct LLM-type experiences in Search, I think it will help us expand and serve new types of use cases, generative use cases. And so, I think I see this as a chance to rethink and reimagine and drive Search to solve more use cases for our users as well. So, again, early days, you will see us be bold, put things out, get feedback and iterate and make things better.
+
+Ruth Porat -- Chief Financial Officer
+
+And then in terms of your question about Other Bets investment levels, so as we've talked about in prior calls, our goal for Other Bets is to use our deep technology investments to drive innovation with real potential for value creation. And at the same time, we are very focused on the overall pace of investment and the financial returns. And so, what we're really looking at here are what are the opportunities for monetization and commercialization. As I've said on prior calls, there is no monolithic approach across the portfolio, but we are very focused on whether -- what's the pace of investment opportunities for monetization and commercialization.
+
+And just a bit more with respect to the DeepMind move, to be very clear, we consolidate in Other Bets into Google only when that bet supports products and services within Google or for Alphabet broadly. And you saw us do that some time ago when we moved Chronicle as an example into combining with our Cloud business and really the cybersecurity offering that is now in Cloud, and that was very effective. With AI, this is obviously an Alphabet strategic priority, and we see huge opportunity ahead, and DeepMind's research is core to that future across the product areas in Alphabet portfolio. And so, this reporting change reflects the strategic focus in DeepMind, the support of each one of our segments, and that's why I indicated that beginning Q1, DeepMind financials will be reported within our corporate cost segment.
+
+Eric Sheridan -- Goldman Sachs -- Analyst
+
+Thanks so much.
+
+Operator
+
+Our next question is from Justin Post with Bank of America Merrill Lynch. Your line is open.
+
+Justin Post -- Bank of America Merrill Lynch -- Analyst
+
+Thank you for taking my question. Just digging into Search kind of low single-digit growth ex FX. Can you talk about the pressures there, volume versus pricing or CPCs? What's really driving the slowdown? It's kind of almost back to '09 recession levels. Just think about that.
+
+And then any signs that we're near a bottom? Any stabilization in growth rates you can talk about or how your outlook is for '23 on that? Thank you.
+
+Ruth Porat -- Chief Financial Officer
+
+So, overall, as we've indicated, we remain very excited about all that we're doing in Search, the utility for all of us. And so that's why you've heard so many comments about the application of AI and what that means for the ongoing opportunity. You had a number of different questions in there. I think one was on volumes.
+
+In the 10-K that we'll be filing shortly, you'll see that for the full year 2022, CPCs were down 1% versus last year. And as we've talked about in prior quarters, the change in CPCs can reflect a number of different factors: geographic mix, property mix, all sorts of things. Clicks were up 10% in 2022, reflecting a number of factors, including increased engagement, primarily on mobile devices, and improvements in ad formats. But I think overall, we're really excited about what we see ahead.
+
+We're not going to predict the global environment. We did say the challenging backdrop is ongoing, and you can see that but we're very focused on what we can control. And I think most important and what we're really excited about here is innovation to help advertisers overall and our cost reengineering that really gets us to align this long-term sustainable value creation.
+
+Justin Post -- Bank of America Merrill Lynch -- Analyst
+
+Thank you.
+
+Operator
+
+Our next question is from Ross Sandler with Barclays. Your line is open.
+
+Ross Sandler -- Barclays -- Analyst
+
+Yeah. Just a question on the hardware business. Pixel's doing quite well, but it seems like there have been issues around other areas with this inventory write-down. So, could maybe you guys just talk about, in your mind, the strategic importance of having the wide range of hardware products that you have in that segment as it relates to your overall AI initiatives? Thanks a lot.
+
+Sundar Pichai -- Chief Executive Officer
+
+Thanks, Ross. First of all, very, very pleased with how Pixel has performed through a challenging macro environment. Look, I think our computing portfolio is incredibly important. It's what allows us to -- for us to invest and drive innovation forward.
+
+You have to put it all together as a product and ship it. And I think it ends up playing a very, very big role in guiding the ecosystem as well. And increasingly, I think users are thinking beyond phones and thinking through a holistic ecosystem. To give one example, us undertaking Pixel Watch and, as part of that, integrating Fitbit and bringing it to our ecosystem as well, partnering closely with Samsung on wearables.
+
+The combination is what has driven over a 300% increase in actives on Android watches ecosystem. So, just to give you a context on that. So, we are very thoughtful about how we are approaching this area. And as Ruth mentioned, across all these areas, too, we are working to drive greater focus and cost efficiencies in the portfolio.
+
+Obviously, we work through a challenging supply chain environment, as well as a challenging environment on the demand side. And so, we'll continue focusing on improving all of this in a durable way.
+
+Operator
+
+Our next question comes from Mark Mahaney with Evercore ISI. Your line is open.
+
+Mark Mahaney -- Evercore ISI -- Analyst
+
+Hey, I'll just ask one question on, Ruth, you mentioned a couple of times, getting Google Cloud to profitability. And just talk through how that gets done. You had almost 40% growth in Google Cloud. The operating loss level stayed about the same from '21 to '22, so the growth is there.
+
+What are the factors that need to be solved in order to get pretty nice profitability out of that segment sort of anywhere akin to what Azure and AWS have been able to show over the years? Thank you.
+
+Ruth Porat -- Chief Financial Officer
+
+Thanks for the question. So, as we've talked about on prior calls, with Google Cloud, we've really been investing ahead of our revenues, given the growth and the opportunity overall and the desire to ensure that we're equipped, able to support customers across segments around the globe. And so, there's been meaningful investment to position ourselves to really have the momentum that the team has continued to deliver. That being said, they are, as both Sundar and I have noted, extremely focused on the path to profitability in every element of that.
+
+And some of the items that I noted that benefit Alphabet generally most certainly are relevant here for Cloud as well, everything from our efficiency with our technical infrastructure, which we're very excited about, all the efforts that they're doing there and more broadly. So, this has been really to ensure, first and foremost, given the scale of the opportunity and the speed with which it's moving that we're positioned to be present with our customers, to provide them with the analytics, the skills, the capabilities that are needed to build for long-term growth. And we're at a position now where we've meaningfully closed the gap to profitability but still are working through as we continue to invest for growth while narrowing what this is on our march to profitability.
+
+Mark Mahaney -- Evercore ISI -- Analyst
+
+Thank you, Ruth.
+
+Operator
+
+And our last question comes from Brent Thill with Jefferies. Your line is open.
+
+Brent Thill -- Jefferies -- Analyst
+
+Good afternoon. Ruth, can you give us a sense of what you're seeing in Q1? Is this year a little more seasonal than historic? Are you observing any different patterns just over one month into the year? Can you give us any color in terms of how you're framing this quarter? 
+
+Ruth Porat -- Chief Financial Officer
+
+So, I think as you know well, we don't tend to -- we don't provide exit run rates. What we tried to do is give you the context within which we're approaching the overall business and the priorities that we have as we're looking at revenue upside and the growth levers there, as well as how to reengineer our expense base to deliver attractive returns. So, not really much to add to the comments that you've heard today, and we're continuing to execute across each one of the elements we discussed.
+
+Brent Thill -- Jefferies -- Analyst
+
+Thank you.
+
+Operator
+
+Thank you. And that concludes our question-and-answer session for today. I'd like to turn the conference back over to Jim Friedland for any further remarks. 
+
+Jim Friedland -- Director, Investor Relations
+
+Thanks, everyone, for joining us today. We look forward to speaking with you again on our first quarter 2023 call. Thank you, and have a good evening."
