@@ -1,5 +1,6 @@
 import requests
 import json 
+import pandas as pd
 #need to "pip install yfinance"
 import yfinance as yahooFinance
 
@@ -25,3 +26,10 @@ def get_transcript(ticker, quarter, year):
 def get_price_data(ticker):
     GetInformation = yahooFinance.Ticker(ticker)
     return GetInformation.history(period="max")
+
+def get_stock_dict():
+    tickers = get_tickers()
+    stock_dict_df = dict()
+    for tick in tickers:
+        stock_dict_df[tick] = pd.read_csv('Stock_Prices/'+tick+'.csv')
+    return stock_dict_df
