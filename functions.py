@@ -54,7 +54,5 @@ def get_companies_by_50():
     f = open('Transcript_json/companies_250.json')
     classes_200_250 = json.load(f)
     f.close()
-    f = open('Transcript_json/companies_250.json')
-    classes_250_300 = json.load(f)
-    f.close()
-    return classes_0_50, classes_50_100, classes_100_150, classes_150_200, classes_200_250, classes_250_300
+   
+    return classes_0_50, classes_50_100, classes_100_150, classes_150_200, classes_200_250
