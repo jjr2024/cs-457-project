@@ -12,6 +12,9 @@ __pycache__/
 #JSON files
 *.json
 
+#joblib files
+*.joblib
+
 # Distribution / packaging
 .Python
 build/
