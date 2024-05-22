@@ -10,7 +10,7 @@ final_cody.py is broken down into two sections. Main analysis and Google analysi
 MAIN ANALYSIS
 In this section our Model is trained on the transcript calls of 50 companies. In order to insert a transcript into BERT we must first preprocess 
 them into multiple "text-chunks" and assign each chuck the label of its parent transcript. In order to decide the labels we looked at the price 
-movement over 20 days and 60 days. If the price went up by more than 5% over 20 days and more than 10% over 60 days it was label 1. If it went 
+movement over 20 days and 60 days. If the price went up by more than 5% over 20 trading days (1 calendar month) and more than 10% over 60 trading days (3 calendar months) it was label 1. If it went 
 down by 5% and 10% then it got the label -1. And if it did neither it got a 0.
 
 After preprocessing we have went from approximately 3,400 transcripts and labels to 187,313 text-chunks and labels.
@@ -35,8 +35,8 @@ In this section, we train BERT only on Google earnings call transcripts to deter
 The key difference in the data are the criteria for labeling. Unlike the 5% (1-month) and 10% (3-month) thresholds in the main analysis, here we use
 1% and 3% thresholds.
 
-We use the same data processing strategy as the main analysis. Google's 69 available transcripts are split into text chunks. Those text chunks are individual
-observations. Those observations are split 80-10-10 into train, development, and test sets.
+We use a similar data processing strategy as the main analysis. Google's 69 available transcripts are split into text chunks (each transcript is split into smaller
+text files by speaker). Those text chunks are individual observations. Those observations are split 80-10-10 into train, development, and test sets.
 
 Then we look for the hyperparameters to use. We repeatedly train BERT on the dev set with different learning rates and batch sizes, with 3 epochs per pairing. 
 We save and use the learning rate and batch size that correspond to the lowest 3rd epoch loss.
